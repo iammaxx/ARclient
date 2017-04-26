@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "576645211436",
+    "firebase_url": "https://digitalar-65a7a.firebaseio.com",
+    "project_id": "digitalar-65a7a",
+    "storage_bucket": "digitalar-65a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576645211436:android:941b6cb67ec68d26",
+        "android_client_info": {
+          "package_name": "com.digitalar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576645211436-vqncm0aeviugrg5ou1rsdmo7f492ipjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSOep3KzUPciJEHCu8UQBC0V1vZpvCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576645211436:android:8a6822bed82d72f0",
+        "android_client_info": {
+          "package_name": "com.arclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576645211436-vqncm0aeviugrg5ou1rsdmo7f492ipjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSOep3KzUPciJEHCu8UQBC0V1vZpvCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
